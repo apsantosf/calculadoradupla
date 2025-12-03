@@ -1,0 +1,7 @@
+{
+  "name": "calculadoradupla",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
